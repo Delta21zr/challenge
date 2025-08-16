@@ -1,0 +1,77 @@
+Informe de Análisis de Tiendas para el Sr. Juan
+Introducción
+
+El objetivo de este análisis fue evaluar las cuatro tiendas disponibles con el fin de determinar en cuál debería enfocarse el Sr. Juan para vender sus productos. Para ello, se analizaron distintos factores clave: ingresos totales, categorías de productos más y menos vendidas, calificaciones promedio de los clientes, productos más y menos vendidos y el coste de envío promedio. Estos indicadores permiten identificar las fortalezas y debilidades de cada tienda y tomar una decisión informada.
+
+Desarrollo del Análisis
+1. Ingresos Totales
+
+Se calcularon los ingresos totales de cada tienda sumando los precios de todos los productos vendidos.
+Gráfico: Barras de ingresos totales por tienda.
+
+Tienda 1: $XXX
+
+Tienda 2: $XXX
+
+Tienda 3: $XXX
+
+Tienda 4: $XXX
+
+Interpretación: La tienda con mayor ingreso refleja un mayor volumen de ventas y potencial de mercado.
+
+2. Distribución de Productos por Categoría
+
+Se analizaron las categorías de productos vendidas en cada tienda.
+Gráfico: Pastel de distribución de categorías (ejemplo: Tienda 1).
+
+Categorías más vendidas: X, Y, Z
+
+Categorías menos vendidas: A, B
+
+Interpretación: Las tiendas con mayor diversidad de categorías populares permiten una mayor flexibilidad en ventas y menor riesgo de baja rotación de productos.
+
+3. Calificación Promedio de los Clientes
+
+Se calculó la calificación promedio de los clientes para cada tienda.
+Gráfico: Línea de calificación promedio por tienda.
+
+Tienda 1: X.X
+
+Tienda 2: X.X
+
+Tienda 3: X.X
+
+Tienda 4: X.X
+
+Interpretación: Las calificaciones altas indican una mayor satisfacción del cliente, lo que puede favorecer la fidelización y ventas recurrentes.
+
+4. Productos Más y Menos Vendidos
+
+Se identificaron los productos con mayores y menores ventas en cada tienda.
+Gráfico: Barras horizontales de los 10 productos más vendidos.
+
+Interpretación: Las tiendas con productos más vendidos consistentes muestran patrones de demanda claros, lo que facilita la planificación de inventario y promociones.
+
+5. Costo de Envío Promedio
+
+Se evaluó el costo de envío promedio en cada tienda.
+
+Tienda 1: $X.XX
+
+Tienda 2: $X.XX
+
+Tienda 3: $X.XX
+
+Tienda 4: $X.XX
+
+Interpretación: Un costo de envío promedio más bajo puede atraer más clientes y mejorar la competitividad de la tienda.
+
+Conclusión y Recomendación
+
+Analizando los resultados de manera integral:
+
+La tienda con mayores ingresos, productos populares bien definidos, alta calificación promedio y costo de envío competitivo es la Tienda X.
+
+Aunque otra tienda pueda tener fortalezas parciales (por ejemplo, bajo costo de envío o alta calificación), la combinación de factores de la Tienda X la hace la opción más sólida para el Sr. Juan.
+
+Recomendación: El Sr. Juan debería enfocar sus ventas en Tienda X, ya que maximiza las posibilidades de ventas, satisfacción del cliente y eficiencia logística, basándose en los indicadores analizados y los gráficos generados.
